@@ -7,6 +7,8 @@ Modified By Zaeem Technical
 
 👉git clone https://github.com/Zaeem20/HACKERX5
 
+👉chmod +x *
+
 👉pip2 install -r requirements.txt
 
 👉bash Zaeem.sh
